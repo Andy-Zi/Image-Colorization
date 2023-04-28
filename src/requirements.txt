@@ -1,0 +1,7 @@
+torch
+torchvision
+scikit-image
+torchdatasets
+matplotlib
+tqdm
+ipywidgets
